@@ -1,0 +1,10 @@
+/* .bg_home{
+    background-color: #1abc9c;
+} */
+
+.home_hero{
+ background-image: linear-gradient(#1abc9c,#1abc9c);
+ height:98vh;
+
+}
+ 
